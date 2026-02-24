@@ -14,4 +14,6 @@ public class Main {
             IO.println("i = " + i);
         }
     }
+
+    // Nueva funcionalidad añadida para la práctica
 }
