@@ -15,5 +15,5 @@ public class Main {
         }
     }
 
-    // Nueva funcionalidad añadida para la práctica
+    // Nueva funcionalidad añadida a la práctica
 }
